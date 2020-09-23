@@ -1,7 +1,7 @@
 - date: 21 Sep 2020
   headline: "Dr Wong has won the NSFC excellent Yong Scientists Fund 2020."
   description: "Congratulations to Dr Wong!"
-  images: [links]("/images/news/21Sep2020-Excellent_Young_scientist.pdf")
+  images:  <a href="/images/news/21Sep2020-Excellent_Young_scientist.pdf">link</a> )
 
 - date: 1 Sep 2020
   headline: "Charles has been awarded with the HKU University Postgraduate Fellowships (UPF)"
