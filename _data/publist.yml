@@ -9,6 +9,18 @@
   highlight: 0
   news1:  
 
+- title: "Single cell RNA-Seq reveals that CD9 is a negative marker of glucose-responsive pancreatic beta-like cells derived from human pluripotent stem cells."
+  year: "2020"
+  image: 
+  description:
+  authors: Li X., Yang K.Y., Chan V., Leung K.T., Zhang X.B., Wong S..LA., Chong C., Wang C.C., Ku M., Lui K.O..
+  link:
+    url: https://doi.org/10.1016/j.stemcr.2020.09.009
+    display:  "Stem Cell Reports, Volume 15, 1-16 "
+  highlight: 0
+  news1:  
+  
+
 - title: "A Three-Way Combinatorial CRISPR Screen for Analyzing Interactions among Druggable Targets. "
   year: "2020"
   image: <img src="/images/misc/2020_cell_reports_graphic.png" class="img-responsive"  width="30%" align="left" HSPACE="5" VSPACE="10" /> 
