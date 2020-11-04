@@ -1,3 +1,14 @@
+- title: "High-Throughput Protein Engineering by Massively Parallel Combinatorial Mutagenesis."
+  year: "2021"
+  image: 
+  description:
+  authors: Wan Y.K., Choi G.C.G., Wong A.S.L.
+  link:
+    url: https://doi-org.eproxy.lib.hku.hk/10.1007/978-1-0716-0892-0_1
+    display:  "Methods Mol Biol. 2021;2199:3-12."
+  highlight: 0
+  news1:  
+
 - title: "A Three-Way Combinatorial CRISPR Screen for Analyzing Interactions among Druggable Targets. "
   year: "2020"
   image: <img src="/images/misc/2020_cell_reports_graphic.png" class="img-responsive"  width="30%" align="left" HSPACE="5" VSPACE="10" /> 
