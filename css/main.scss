@@ -62,8 +62,9 @@ firstp {
   }
   &__text {
     display: inline-block;
+    float: right;
     vertical-align:middle;
-    width: 75%;
+    width: 70%;
   }
 }
 
