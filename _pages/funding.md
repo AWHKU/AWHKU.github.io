@@ -9,6 +9,8 @@ permalink: /funding/
 
 # Funding
 ## Research work in our laboratory is generously supported by:
+- NSFC Excellent Young Scientists Fund (Hong Kong and Macau) 2020 (PI)
+
 - RGC TBRS 2020/2021 (co-PI)
 
 - RGC GRF 2020/21 (PI)
@@ -37,7 +39,6 @@ permalink: /funding/
 
 - Croucher Startup Fund, Croucher Foundation 2016 (PI)
 
-- Seed Fund for Basic Research, HKU 2016, 2017, 2018 (PI)
 
 PI for Principal Investigator
 
