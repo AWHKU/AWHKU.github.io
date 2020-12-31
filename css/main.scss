@@ -56,8 +56,9 @@ firstp {
   max-width: 1500px; /* or 950px */
   &__image {
     display: inline-block;
+    padding-top: 30%;
     float: left;
-    width: 17%;
+    width: 20%;
     vertical-align:middle;
     margin: 20px 30px 20px 20px;
   }
@@ -65,7 +66,7 @@ firstp {
     display: inline-block;
     float: right;
     vertical-align:middle;
-    width: 60%;
+    width: 73%;
   }
 }
 
