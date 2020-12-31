@@ -49,17 +49,17 @@ firstp {
 .container-fluid {
   margin-right: auto;
   margin-left: auto;
-  max-width: 1500px; /* or 950px */
+  max-width: 1000px; /* or 950px */
 }
 
 .container-text {
-  max-width: 1500px; /* or 950px */
+  max-width: 1000px; /* or 950px */
   &__image {
     display: inline-block;
     float: left;
     width: 20%;
     vertical-align:middle;
-    margin: 10px 10px 10px 10px;
+    margin: 10px 10px 0 0;
   }
   &__text {
     display: inline-block;
