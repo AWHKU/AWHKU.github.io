@@ -9,6 +9,8 @@ permalink: /funding/
 
 # Funding
 ## Research work in our laboratory is generously supported by:
+- Health@InnoHK - Centre for Oncology and Immunology, Innovation and Technology Commission of the HKSAR 2020
+
 - NSFC Excellent Young Scientists Fund (Hong Kong and Macau) 2020 (PI)
 
 - RGC TBRS 2020/2021 (co-PI)
