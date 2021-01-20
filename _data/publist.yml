@@ -9,17 +9,6 @@
   highlight: 0
   news1: "[CombiPIPE github link](https://github.com/AWHKU/CombiPIPE)"
   
-  
-- title: "Awarded the Faculty Outstanding Research Output Award 2020, Faculty of Medicine, HKU"
-  year: "2020"
-  image: 
-  description: 
-  authors: Choi C.G.G., Zhou P., Yuen Z., Chan B.K.C., XU F., Thean D.G.L., Choi C.G.G., Wong S.L.A
-  link:
-    url: 
-    display: "Faculty of Medicine, HKU"
-  highlight: 0
-  news1:  
 
 - title: "High-Throughput Protein Engineering by Massively Parallel Combinatorial Mutagenesis."
   year: "2021"
@@ -64,7 +53,8 @@
     url: https://www.nature.com/articles/s41592-019-0473-0
     display:  "Nature Methods 16,722–730"
   highlight: 1
-  news1:  <a href="https://protocolsmethods.springernature.com/posts/51089-beating-the-odds-for-engineering-crispr-protein">--Nature Methods' Blog post (also mentioned on Twitter)</a> <br> 
+  news1:  Awarded the Faculty Outstanding Research Output Award 2020, Faculty of Medicine, HKU <br>
+          <a href="https://protocolsmethods.springernature.com/posts/51089-beating-the-odds-for-engineering-crispr-protein">--Nature Methods' Blog post (also mentioned on Twitter)</a> <br> 
           <a href="{{ site.url }}{{ site.baseurl }}/images/news/BioScienceEC.pdf">--BioWorld Science Editor's Choice on July 2019</a> <br> 
           <a href="https://www.singpao.com.hk/index.php?fi=loadpdf&t=news&id=13087">--Featured in Singpao newspaper</a> 
 
