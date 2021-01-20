@@ -1,13 +1,13 @@
 - title: "Extensible combinatorial CRISPR screening in mammalian cells."
   year: "2021"
   image: 
-  description: [CombiPIPE github link](https://github.com/AWHKU/CombiPIPE)
+  description: 
   authors: Zhou P., Wan Y.K., Chan B.K.C., Choi C.G.G., Wong S.L.A
   link:
     url: https://star-protocols.cell.com/protocols/363
     display:  "STAR Protoc. 2021;2(1):100255"
   highlight: 0
-  news1:  
+  news1: [CombiPIPE github link](https://github.com/AWHKU/CombiPIPE)  
 
 - title: "Awarded the Faculty Outstanding Research Output Award 2020, Faculty of Medicine, HKU"
   year: "2020"
