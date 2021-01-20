@@ -30,6 +30,9 @@ permalink: /publications/
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
   <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>&nbsp;<em> {{ publi.year }} </em><br />
+  <br>
+  <br>
+  <br>
   <p>{{ publi.news1 }}</p>
  </div>
 </div>
