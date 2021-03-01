@@ -38,7 +38,7 @@ permalink: /
             <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/news/news_disneyland.jpg" alt="Slide 5" />
         </div>
         <div class="item">
-            <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/news/2021_XF_grad_group_photo_tiny.jpg" alt="Slide 6" />
+            <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/news/2021_XF_grad_group_photo_tiny.jpg" width="700" alt="Slide 6" />
          </div>
          
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
