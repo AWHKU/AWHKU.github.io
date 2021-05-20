@@ -62,16 +62,6 @@
   education2: 
   education3:    
 
-- name: Dawn Thean
-  photo: dawn.png
-  info: Research assistant
-  year: Since 2018 
-  email: 
-  number_educ: 0
-  education1: 
-  education2: 
-  education3:        
-        
 
 #TO
 - name: Cynthia Kwok
@@ -84,10 +74,10 @@
   education2: 
   education3:         
 
-- name: Cindy Tong
-  photo: cindy.png
+- name: Maggie Cheung
+  photo: Maggie_CHEUNG.jpeg
   info: Technical Officer
-  year: Since 2020
+  year: Since 2021
   email: 
   number_educ: 0
   education1: 
