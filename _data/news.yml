@@ -1,12 +1,11 @@
 - date: 27 Jun 2021
   headline: "Happy BME lab tour day!"
   description: "Thanks everyone, for helping out. Hope you had a great time with the visitors!"
-  images:  
-  <img src="/images/news/2021_06_26_IMG_8071.JPG" align="left" width="300"/>
-  <img src="/images/news/2021_06_26_IMG_8068.JPG" align="left" width="300"/>
-  <img src="/images/news/2021_06_26_IMG_8019.JPG" align="left" width="500"/>
-  <img src="/images/news/2021_06_26_IMG_7993.JPG" align="left" width="500"/>
-  <img src="/images/news/2021_06_26_IMG_8002.JPG" align="left" width="500"/>
+  images:  <img src="/images/news/2021_06_26_IMG_8071.JPG" align="left" width="300"/>
+           <img src="/images/news/2021_06_26_IMG_8068.JPG" align="left" width="300"/>
+           <img src="/images/news/2021_06_26_IMG_8019.JPG" align="left" width="500"/>
+           <img src="/images/news/2021_06_26_IMG_7993.JPG" align="left" width="500"/>
+           <img src="/images/news/2021_06_26_IMG_8002.JPG" align="left" width="500"/>
 
 - date: 29 Apr 2021
   headline: "Goodbye Dawn and Cindy"
