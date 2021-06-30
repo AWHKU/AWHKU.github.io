@@ -20,7 +20,7 @@ ___
 </div>
 <div class="col-sm-10 clearfix">
 ## Group Members
-Jump to [Members](#members), [students](#students) and [alumni members](#alumni).
+Jump to [Members](#members), [students](#students), [alumni members](#alumni) and [collaborators](#collaborator).
 
 ## Members
 </div>
@@ -171,6 +171,23 @@ ___
 <div class="col-sm-10 clearfix">
   
 {% for member in site.data.alumni_members %}
+<div class="well-sm"> 
+<p>
+{{ member.name }}&nbsp; -- &nbsp;{{ member.info }}&nbsp;({{ member.duration }})
+<br>
+</p>
+</div>
+{% endfor %}
+
+</div>
+</div>
+
+## Collaborators
+</div>
+<div class="row">
+<div class="col-sm-10 clearfix">
+  
+{% for member in site.data.Collaborator %}
 <div class="well-sm"> 
 <p>
 {{ member.name }}&nbsp; -- &nbsp;{{ member.info }}&nbsp;({{ member.duration }})
