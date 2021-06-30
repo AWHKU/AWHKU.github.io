@@ -39,6 +39,17 @@
   education2: 
   education3:         
 
+- name: Becky Chan
+  photo: becky.png
+  info: PhD student 
+  year: Since 2020 <br> Research assistant (2019-21) <br> MPhil student (2017-19)
+  email: 
+  number_educ: 0
+  education1: 
+  education2: 
+  education3: 
+
+
 # MPhil
 - name: John Fong
   photo: john.png
