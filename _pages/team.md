@@ -20,7 +20,7 @@ ___
 </div>
 <div class="col-sm-10 clearfix">
 ## Group Members
-Jump to [Members](#members), [students](#students), [alumni members](#alumni) and [collaborators](#collaborator).
+Jump to [Members](#members), [students](#students), [alumni members](#alumni) and [collaborators](#collaborators).
 
 ## Members
 </div>
@@ -182,6 +182,7 @@ ___
 </div>
 </div>
 
+<div class="col-sm-10 clearfix">
 ## Collaborators
 </div>
 <div class="row">
