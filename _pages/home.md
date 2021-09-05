@@ -21,9 +21,7 @@ permalink: /
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
-
-
-        <div class="item">
+    <div class="item active">
             <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/news/firstpaper.jpg" alt="Slide 1" />
         </div>
         <div class="item">
