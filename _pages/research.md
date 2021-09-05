@@ -13,6 +13,7 @@ Many disease pathogeneses are governed by multifactorial interactions involving 
 
 <img align="center" display="block" src="/images/misc/platform.jpg"  width="600">
 <img align="center" display="block" src="/images/misc/combi_SEAL_project.png" width="600">
+### Nature Methods’ Blog post (also mentioned on Twitter)
 
 
 ## Projects
