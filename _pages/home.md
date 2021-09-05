@@ -22,13 +22,13 @@ permalink: /
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
     <div class="item active">
-            <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/news/20210715_sciencepark2.jpg" alt="Slide 1" />
+            <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/news/20210715_sciencepark2.jpg" width="700" alt="Slide 1" />
         </div>
         <div class="item">
-            <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/news/20210715_sciencepark1.jpg" alt="Slide 2" />
+            <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/news/20210715_sciencepark1.jpg" width="700" alt="Slide 2" />
         </div>
         <div class="item">
-            <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/news/2021_XF_grad_group_photo_tiny.jpg" alt="Slide 3" />
+            <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/news/2021_XF_grad_group_photo_tiny.jpg" width="700" alt="Slide 3" />
         </div>
         <div class="item">
             <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/news/lab_april2020.png" width="700" alt="Slide 4" />
