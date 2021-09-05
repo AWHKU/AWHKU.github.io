@@ -13,6 +13,8 @@ permalink: /funding/
 
 - NSFC Excellent Young Scientists Fund (Hong Kong and Macau) 2020 (PI)
 
+- RGC RIF 2020/21 (co-PI)
+
 - RGC TBRS 2020/2021 (co-PI)
 
 - RGC GRF 2020/21 (PI)
