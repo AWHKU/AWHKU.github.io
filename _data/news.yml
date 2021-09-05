@@ -1,3 +1,18 @@
+- date: 01 Sept 2021
+  headline: "John has received the Hong Kong PhD Fellowship (HKPF) and HKU Presidential PhD Scholarship (HKU-PS)."
+  description: "Superb achievement, John! Have fun for your PhD!"
+  images: 
+
+- date: 19 Aug 2021
+  headline: "Our first day in InnoHK!"
+  description: "Very excited to start many new projects! Many Thanks to the Centre for Oncology and Immunology Limited for hosting us!"
+  images:  <img src="/images/news/2021-08-19-InnoHK.jpg" align="left" width="500"/>
+
+- date: 15 Jul 2021
+  headline: "Visting the Centre for Oncology and Immunology Limited in Science Park!"
+  description: "Great facilities. And an interestingg visit in InnoCell"
+  images:  <img src="/images/news/20210715_sciencepark1.jpg" align="left" width="500"/>
+
 - date: 30 Jun 2021
   headline: "Becky has received the HKU University Postgraduate Fellowships (UPF)."
   description: "Congrats, Becky! Great start of the PhD journey!"
