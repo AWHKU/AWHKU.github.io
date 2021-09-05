@@ -14,7 +14,7 @@ Many disease pathogeneses are governed by multifactorial interactions involving 
 <img align="center" display="block" src="/images/misc/platform.jpg"  width="600">
 <img align="center" display="block" src="/images/misc/combi_SEAL_project.png" width="600">
 ### Nature Methods’ Blog post (also mentioned on Twitter)
-<img align="center" display="block" src="/images/news/CombiSEAL.jpg" width="600">
+<img align="center" display="block" src="/images/news/CombiSEAL.jpg" width="350">
 <a href="https://protocolsmethods.springernature.com/posts/51089-beating-the-odds-for-engineering-crispr-protein">link</a>
 
 ## Projects
