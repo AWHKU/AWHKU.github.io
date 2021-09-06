@@ -39,17 +39,6 @@
   education2: 
   education3:  
 
-# RA
-  - name: Charmaine Chan
-  photo: 20210906_CharmaineChan.jpeg
-  info: Part time student research assistant 
-  year: Since 2021
-  email: 
-  number_educ: 0
-  education1: 
-  education2: 
-  education3:   
-
 #TO
 - name: Cynthia Kwok
   photo:
@@ -70,3 +59,14 @@
   education1: 
   education2: 
   education3:  
+  
+  # RA
+  - name: Charmaine Chan
+  photo: 20210906_CharmaineChan.jpeg
+  info: Part time student research assistant 
+  year: Since 2021
+  email: 
+  number_educ: 0
+  education1: 
+  education2: 
+  education3:   
