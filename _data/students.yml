@@ -50,7 +50,6 @@
   education3: 
 
 
-# MPhil
 - name: John Fong
   photo: john.png
   info: PhD student 
@@ -61,4 +60,12 @@
   education2: 
   education3: 
 
-
+- name: Oliver Chan
+  photo: 20210906_OliverChan.jpg
+  info: Biomedical Engineering FYP student
+  year: Since 2021 
+  email: 
+  number_educ: 0
+  education1: 
+  education2: 
+  education3: 
