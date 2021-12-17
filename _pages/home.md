@@ -39,9 +39,7 @@ permalink: /
          <div class="item">
             <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/news/news_disneyland.jpg" width="700" alt="Slide 6" />
          </div>
-        <div class="item">
-            <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/news/firstpaper.jpg" width="700" alt="Slide 7" />
-         </div>
+
 
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
