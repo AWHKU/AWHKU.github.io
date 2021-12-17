@@ -40,15 +40,6 @@
   education3:  
 
 #TO
-- name: Cynthia Kwok
-  photo:
-  info: Technical Officer
-  year: Since 2019 
-  email: 
-  number_educ: 0
-  education1: 
-  education2: 
-  education3:         
 
 - name: Maggie Cheung
   photo: Maggie_CHEUNG.jpeg
@@ -70,3 +61,16 @@
   education1: 
   education2: 
   education3:   
+  
+  - name: Mou Yuanbiao
+  photo: 211216_Mou_Yuanbiao_Avatar_Pic.jpg
+  info: Research Assistant
+  year: Since 2021
+  email: 
+  number_educ: 0
+  education1: 
+  education2: 
+  education3:         
+  
+  
+  
