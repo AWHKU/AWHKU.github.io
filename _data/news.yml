@@ -5,10 +5,15 @@
           <img src="/images/news/2021_12_15_christmas_lunch1.jpeg" align="left" width="500"/>
           <img src="/images/news/2021_12_15_christmas_lunch2.jpeg" align="left" width="500"/>
 
+- date:  08 Dec 2021
+  headline: "Athena's perspective is online."
+  description: "Interesting read! [Article link](https://onlinelibrary.wiley.com/doi/10.1002/ggn2.202100038)"
+  images: 
+
 - date:  19 Oct 2021
   headline: "Xu Feng's paper is available online."
   description: "Well done!"
-  images: 
+  images: <img src="/images/news/211217_CR_paper_Team_Photo-2.jpg" align="left" width="500"/>
 
 
 - date: 01 Sept 2021
