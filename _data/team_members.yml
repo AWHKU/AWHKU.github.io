@@ -39,6 +39,17 @@
   education2: 
   education3:  
 
+- name: Ricky Poon
+  photo:
+  info: Postdoc
+  year: Since 2022
+  email: 
+  number_educ: 0
+  education1: 
+  education2: 
+  education3:  
+
+
 #TO
 
 - name: Maggie Cheung
@@ -51,7 +62,17 @@
   education2: 
   education3:  
   
-  # RA
+- name: Fung Khe Cheong , Frederic
+  photo: 2022_Fred_cheung.jpg
+  info: Technical Officer 
+  year: Since 2022
+  email: 
+  number_educ: 0
+  education1: 
+  education2: 
+  education3:   
+  
+# RA
 - name: Dawn Thean
   photo: dawn.png
   info: Research assistant
