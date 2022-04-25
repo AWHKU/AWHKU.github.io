@@ -1,12 +1,24 @@
+- title: Machine learning-coupled combinatorial mutagenesis enables resource-efficient engineering of CRISPR-Cas9 genome editor activities
+  year: "2022"
+  image: <img src="/images/misc/s41467-022-29874-5.png" class="img-responsive"  width="50%" align="left" HSPACE="5" VSPACE="10" /> 
+  description: 
+  authors: Thean DGL, Chu HY, Fong JHC, Chan BKC, Zhou P, Kwok CSC, Chan YM ,Mak S, Choi GCG, Ho JWK, Zheng Z, Wong ASL.
+  link:
+    url:  https://www.nature.com/articles/s41467-022-29874-5
+    display:  "Nature Communications 13, 2219 (2022)"
+  highlight: 1
+  news1:
+
+
 - title: High-fidelity KKH variant of Staphylococcus aureus Cas9 nucleases with improved base mismatch discrimination
   year: "2022"
-  image: 
+  image: <img src="/images/misc/SaCas9_SAV_6509098.png" class="img-responsive"  width="30%" align="left" HSPACE="5" VSPACE="10" /> 
   description: 
   authors: Yuen C, Thean DG, Chan BKC, Zhou P, Kwok CSC, Chu HY, Cheung M, Wang B, Chan YM ,Mak S,Leung A, Choi GCG, Zheng Z, Wong ASL.
   link:
     url:  https://doi.org/10.1093/nar/gkab1291
     display:  "Nucleic Acids Research: gkab1291 (2022)"
-  highlight: 0
+  highlight: 1
   news1:
 
 
