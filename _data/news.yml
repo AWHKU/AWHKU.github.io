@@ -3,6 +3,14 @@
   description: "Congrats to Dawn and Athena! Here is a featured blog post of the article: <br>  [Engineering CRISPR-Cas9 proteins en masse with much less experiments](https://bioengineeringcommunity.nature.com/posts/engineering-crispr-cas9-proteins-en-masse-with-much-less-experiments#contributors)"
   images: 
 
+- date:  09 Mar 2022
+  headline: "The highly accurate SaCas9 variants are featured in HKUMed News!"
+  description: "[News link](http://www.med.hku.hk/en/news/press/20220309-new-sacas9-variants) <br> Congrats to Zero and the team! The related [article](https://doi.org/10.1093/nar/gkab1291) is published in Nucleic Acids Research."
+  images: 
+
+- date:  21 Dec 2021
+  headline: "The lab's finding on Combinatorial drug treatment for liver cancers is featured by local newspapers."
+  description: "[Ta Kung Pao news](/images/news/211221_a8_screen.pdf) <br> [Headline Daily]() <br> [Sing Tao Daily]() <br> [Hong Kong Economic Journal]() <br> Well done, team!"
 
 - date:  15 Dec 2021
   headline: "AW lab's Christmas lunch."
