@@ -10,7 +10,7 @@
 
 - date:  21 Dec 2021
   headline: "The lab's finding on Combinatorial drug treatment for liver cancers is featured by local newspapers."
-  description: "[Ta Kung Pao news]({{ site.url }}/images/news/211221_a8_screen.pdf) <br> [Headline Daily]() <br> [Sing Tao Daily]() <br> [Hong Kong Economic Journal]() <br> Well done, team!"
+  description: "[Ta Kung Pao news](/images/news/211221_a8_screen.pdf) <br> [Headline Daily](/images/news/211221_HeadlineDaily.pdf) <br> [Sing Tao Daily](/images/news/211221_Singtao.pdf) <br> [Hong Kong Economic Journal](/images/news/211221_HKEJ.pdf) <br> Well done, team!"
 
 - date:  15 Dec 2021
   headline: "AW lab's Christmas lunch."
