@@ -183,6 +183,7 @@ ___
 </div>
 
 <div class="col-sm-10 clearfix">
+
 ## Collaborators
 </div>
 <div class="row">
@@ -191,7 +192,7 @@ ___
 {% for member in site.data.Collaborator %}
 <div class="well-sm"> 
 <p>
-{{ member.name }}&nbsp; -- &nbsp;{{ member.info }}&nbsp;({{ member.duration }})
+{{ member.name }}&nbsp; &nbsp;{{ member.info }}&nbsp;{{ member.duration }}
 <br>
 </p>
 </div>
