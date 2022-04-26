@@ -19,7 +19,7 @@
     url:  https://doi.org/10.1093/nar/gkab1291
     display:  "Nucleic Acids Research: gkab1291 (2022)"
   highlight: 1
-  news1:
+  news1: http://www.med.hku.hk/en/news/press/20220309-new-sacas9-variants
 
 
 - title: "Facilitating Machine Learning-Guided Protein Engineering with Smart Library Design and Massively Parallel Assays"
