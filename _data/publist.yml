@@ -1,3 +1,15 @@
+- title: Optochemical Control of mTOR Signaling and mTOR-Dependent Autophagy
+  year: "2022"
+  image: 
+  description: 
+  authors: Wang T, Long K, Zhou Y, Jiang X, Liu J, Fong JHC, Wong ASL, Ng WL, Wang W 
+  link:
+    url:  https://www.nature.com/articles/s41467-022-29874-5
+    display:  "ACS Pharmacology & Translational Science 5(3), 149–155 (2022)"
+  highlight: 0
+  news1:
+
+
 - title: Machine learning-coupled combinatorial mutagenesis enables resource-efficient engineering of CRISPR-Cas9 genome editor activities
   year: "2022"
   image: <img src="/images/misc/s41467-022-29874-5.png" class="img-responsive"  width="50%" align="left" HSPACE="5" VSPACE="10" /> 
