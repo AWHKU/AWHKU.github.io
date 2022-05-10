@@ -1,15 +1,3 @@
-- title: Optochemical Control of mTOR Signaling and mTOR-Dependent Autophagy
-  year: "2022"
-  image: 
-  description: 
-  authors: Wang T, Long K, Zhou Y, Jiang X, Liu J, Fong JHC, Wong ASL, Ng WL, Wang W 
-  link:
-    url:  https://www.nature.com/articles/s41467-022-29874-5
-    display:  "ACS Pharmacology & Translational Science 5(3), 149–155 (2022)"
-  highlight: 0
-  news1:
-
-
 - title: Machine learning-coupled combinatorial mutagenesis enables resource-efficient engineering of CRISPR-Cas9 genome editor activities
   year: "2022"
   image: <img src="/images/misc/s41467-022-29874-5.png" class="img-responsive"  width="40%" align="left" HSPACE="5" VSPACE="10" /> 
@@ -33,6 +21,16 @@
   highlight: 1
   news1: "[HKUMed News](http://www.med.hku.hk/en/news/press/20220309-new-sacas9-variants) <br> [Ta Kung Pao news](/images/news/211221_a8_screen.pdf)"
 
+- title: Optochemical Control of mTOR Signaling and mTOR-Dependent Autophagy
+  year: "2022"
+  image: 
+  description: 
+  authors: Wang T, Long K, Zhou Y, Jiang X, Liu J, Fong JHC, Wong ASL, Ng WL, Wang W 
+  link:
+    url: https://pubs.acs.org/doi/10.1021/acsptsci.1c00230
+    display:  "ACS Pharmacology & Translational Science 5(3), 149–155 (2022)"
+  highlight: 0
+  news1:
 
 - title: "Facilitating Machine Learning-Guided Protein Engineering with Smart Library Design and Massively Parallel Assays"
   year: "2021"
