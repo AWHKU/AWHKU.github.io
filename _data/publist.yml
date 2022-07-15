@@ -1,3 +1,15 @@
+- title: CRISPR screening in cancer stem cells
+  year: "2022"
+  image:
+  description: 
+  authors: Wang B, Wong ASL.
+  link:
+    url:  https://doi.org/10.1042/EBC20220009
+    display:  "Essays Biochem (2022) EBC20220009."
+  highlight: 0 
+  news1: 
+
+
 - title: Machine learning-coupled combinatorial mutagenesis enables resource-efficient engineering of CRISPR-Cas9 genome editor activities
   year: "2022"
   image: <img src="/images/misc/s41467-022-29874-5.png" class="img-responsive"  width="40%" align="left" HSPACE="5" VSPACE="10" /> 
