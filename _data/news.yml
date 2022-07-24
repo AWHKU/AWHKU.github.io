@@ -1,11 +1,24 @@
-- date: 30 June 2022
+- date: 20 Jul 2022
+  headline: "Oliver's graduation"
+  description: "Well done Oliver and all the best!"
+  images: <img src="/images/news/220720_image5.jpeg" align="left" width="500"/>
+          <img src="/images/news/220720_image6.jpeg" align="left" width="500"/>
+
+- date: 30 Jun 2022
   headline: "The SaCas9 optimization paper has received quite a bit of media coverage."
   description: "[HK01.com](/images/news/220630_hk01.pdf) <br> [Sing Tao Daily](/images/news/220630_singtao.pdf) <br> [news-medical.net](/images/news/220630_medicalnet.pdf) <br> [article link](https://www.nature.com/articles/s41467-022-29874-5)"
-
+  images:
+  
 - date: 17 Jun 2022
   headline: "Bei's review **CRISPR screening in cancer stem cells** is available online."
   description: "Well done Bei! <br> [Review link](https://doi.org/10.1042/EBC20220009)"
   images: 
+
+- date: 25 May 2022
+  headline: Official Launch of InnoHK. 
+  description: Dr Wong attended the official InnoHK launch ceremony.
+  images: <img src="/images/news/220525_COI_launch1.jpg" align="left" width="500"/>
+          <img src="/images/news/220525_COI_launch2.jpg" align="left" width="500"/>
 
 - date:  25 Apr 2022
   headline: "Dawn and Athena's work on SaCas9 optimization is now published in Nature Communications."
