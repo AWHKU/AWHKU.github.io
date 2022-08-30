@@ -1,3 +1,14 @@
+- title: What are the current bottlenecks in developing and applying CRISPR technologies?
+  year: "2022"
+  image: <img src="/images/misc/j.cels.2022.07.004_screencap.png" class="img-responsive"  width="40%" align="left" HSPACE="5" VSPACE="10" /> 
+  description: 
+  authors: Kellogg EH, Gootenberg J, Abudayyeh O, Wong ASL, Dahlman JE, Lapinaite A, Myhrvold C, Liu CC, Hsu PD, Mali P, Qi LS. 
+  link:
+    url:  https://doi.org/10.1016/j.cels.2022.07.004
+    display:  "Cell Systems (2022) 13(8),589-593"
+  highlight: 1 
+  news1: 
+
 - title: CRISPR screening in cancer stem cells
   year: "2022"
   image:
