@@ -9,6 +9,36 @@
 #  education4:
 # PhD
 
+- name: Marie Lee
+  photo: Marie.jpeg
+  info: MPhil Student
+  year: Since 2022
+  email: 
+  number_educ: 0
+  education1: 
+  education2: 
+  education3: 
+
+- name: Becky Chan
+  photo: becky.png
+  info: PhD student 
+  year: Since 2021 (Recipient of HKU University Postgraduate Fellowships (UPF)) <br> Research assistant (2019-21) <br> MPhil student (2017-19)
+  email: 
+  number_educ: 0
+  education1: 
+  education2: 
+  education3: 
+
+- name: John Fong
+  photo: john.png
+  info: PhD student 
+  year: Since 2021 (Recipient of Hong Kong PhD Fellowship (HKPF) and HKU Presidential PhD Scholarship (HKU-PS)) <br> MPhil student (2019-21) <br> BioMed FYP student (2018-19)
+  email: 
+  number_educ: 0
+  education1: 
+  education2: 
+  education3: 
+
 - name: Zero Yuen
   photo: Zero_Yuen.jpg
   info: PhD student
@@ -38,25 +68,3 @@
   education1: 
   education2: 
   education3:         
-
-- name: Becky Chan
-  photo: becky.png
-  info: PhD student 
-  year: Since 2021 (Recipient of HKU University Postgraduate Fellowships (UPF)) <br> Research assistant (2019-21) <br> MPhil student (2017-19)
-  email: 
-  number_educ: 0
-  education1: 
-  education2: 
-  education3: 
-
-
-- name: John Fong
-  photo: john.png
-  info: PhD student 
-  year: Since 2021 (Recipient of Hong Kong PhD Fellowship (HKPF) and HKU Presidential PhD Scholarship (HKU-PS)) <br> MPhil student (2019-21) <br> BioMed FYP student (2018-19)
-  email: 
-  number_educ: 0
-  education1: 
-  education2: 
-  education3: 
-
