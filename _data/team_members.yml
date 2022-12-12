@@ -50,6 +50,16 @@
   education2: 
   education3:  
   
+- name: Helena Lam Yin Kau
+  photo: PC251858-min-HelenaLam.jpg
+  info: Postdoc
+  year: Since 2022
+  email: 
+  number_educ: 0
+  education1: 
+  education2: 
+  education3:    
+  
 #TO
 
 - name: Maggie Cheung
@@ -93,15 +103,6 @@
   education2: 
   education3:    
 
-- name: Jiaxing Peng
-  photo: Picture-Jessie.jpg
-  info: Research assistant
-  year: Since 2022
-  email: 
-  number_educ: 0
-  education1: 
-  education2: 
-  education3:    
   
 - name: Charmaine Chan
   photo: 20210906_CharmaineChan.jpeg
