@@ -1,3 +1,16 @@
+- title: Parallel engineering and activity profiling of a base editor system
+  year: "2023"
+  image: 
+  description: 
+  authors: Fong JHC, Chu HY, Zhou P, Wong ASL.
+  link:
+    url:  https://doi.org/10.1016/j.cels.2023.03.007
+    display:  "Cell Systems (2023)"
+  highlight: 0 
+  news1: 
+
+
+
 - title: What are the current bottlenecks in developing and applying CRISPR technologies?
   year: "2022"
   image: <img src="/images/misc/j.cels.2022.07.004_screencap.png" class="img-responsive"  width="40%" align="left" HSPACE="5" VSPACE="10" /> 
