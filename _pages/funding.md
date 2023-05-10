@@ -9,6 +9,14 @@ permalink: /funding/
 
 # Funding
 ## Research work in our laboratory is generously supported by:
+- RGC Young Collaborative Research Grant (YCRG) 2022/23 (PC)
+
+- NSFC/RGC Joint Research Scheme 2022/23 (Co-I)
+
+- RGC GRF 2022/23 (PI)
+
+- RGC GRF 2022/23 (Co-I)
+
 - Health@InnoHK - Centre for Oncology and Immunology, Innovation and Technology Commission of the HKSAR 2020
 
 - NSFC Excellent Young Scientists Fund (Hong Kong and Macau) 2020 (PI)
