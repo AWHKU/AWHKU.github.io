@@ -1,3 +1,15 @@
+- title: Advancing CRISPR/Cas gene editing with machine learning
+  year: "2023"
+  image: 
+  description: 
+  authors: Fong JHC, Wong ASL.
+  link:
+    url:  https://doi.org/10.1016/j.cobme.2023.100477
+    display:  "Current Opinion in Biomedical Engineering (2023), 28:100477"
+  highlight: 0 
+  news1: 
+
+
 - title: Parallel engineering and activity profiling of a base editor system
   year: "2023"
   image: <img src="/images/misc/j.cels.2023.03.007_pub_image.png" class="img-responsive"  width="35%" align="left" HSPACE="5" VSPACE="10" /> 
