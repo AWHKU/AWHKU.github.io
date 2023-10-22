@@ -9,6 +9,26 @@
 #  education4:
 # PhD
 
+- name: Charmaine Chan
+  photo: charmaine_2.jpeg
+  info: Mphil student 
+  year: Since 2023 <br> Part time student research assistant (2021-22) <br> Biomed FYP student (2022-23)
+  email:
+  number_educ: 0
+  education1: 
+  education2: 
+  education3:   
+
+- name: Lucas Ngai
+  photo: Lucas_photo.jpg
+  info: Master of Research in Medicine (MRes[Med]) student 
+  year: Since 2023 
+  email:
+  number_educ: 0
+  education1: 
+  education2: 
+  education3:   
+  
 - name: Mou Yuanbiao
   photo: 211216_Mou_Yuanbiao_Avatar_Pic.jpg
   info: MPhil Student
