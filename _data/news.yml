@@ -2,7 +2,12 @@
   headline: "Dr Wong talks about applying AI on CRISPR engineering in the news."
   description: "News article published in AM730:"
   images: <img src="/images/news/2023_11_06_AWNewsam730.png" align="left" width="600"/> 
-
+  
+- date: 03 Nov 2023
+  headline: "Lucas has been awarded the Mr & Mrs SH Wong Foundation Scholarship for MRes[Med] 2023-24."
+  description: "Well done Lucas!"
+  images:
+  
 - date: 19 Oct 2023
   headline: "Lucas has been granted the Research Internship Award under the Undergraduate Research Fellowship Programme (URFP)"
   description: "Well done Lucas!"
