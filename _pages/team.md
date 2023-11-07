@@ -7,7 +7,7 @@ permalink: /team/
 ---
 
 <div class="container-text">
-<img class="container-text__image"  src="/images/people/2023_11_06_AW-min.png" width="60">
+<img class="container-text__image"  src="/images/people/2023_11_06_AW-min.png" width="55">
 <div class="container-text__text">
 <h3>Alan Wong</h3>
 <p>
