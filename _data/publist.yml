@@ -1,3 +1,15 @@
+- title: High-throughput screening of genetic and cellular drivers of syncytium formation induced by the spike protein of SARS-CoV-2
+  year: "2023"
+  image: <img src="/images/misc/2023-11-24_NBE_cover_art.png" class="img-responsive"  width="35%" align="left" HSPACE="5" VSPACE="10" /> 
+  description: 
+  authors: Chan CWF, Wang B, Nan L, Huang X, Mao T, Chu HY, Luo C, Chu H, Choi GCG, Shum AHC, Wong ASL.
+  link:
+    url:  https://doi.org/10.1038/s41551-023-01140-z
+    display:  "Nature Biomedical Engineering (2023) https://doi.org/10.1038/s41551-023-01140-z"
+  highlight: 1 
+  news1: 
+
+
 - title: Advancing CRISPR/Cas gene editing with machine learning
   year: "2023"
   image: 
