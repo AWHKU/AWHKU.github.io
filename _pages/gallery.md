@@ -14,9 +14,7 @@ permalink: /gallery/
 <script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
 <div class="elfsight-app-d6b3e2b5-411d-4c90-b42f-466d49193583" data-elfsight-app-lazy></div>
 
-.container{
-width: 100%;
-}
+
 <div class="container">
 <div class="row"> 
 <div class="column">
