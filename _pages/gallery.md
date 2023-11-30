@@ -11,6 +11,10 @@ permalink: /gallery/
 !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
 </script>
 
+<script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
+<div class="elfsight-app-d6b3e2b5-411d-4c90-b42f-466d49193583" data-elfsight-app-lazy></div>
+
+
 <div class="row">
 <div class="column">
 <img src="/images/news/2023_11_28_christmas_lunch.jpg" width="400">
