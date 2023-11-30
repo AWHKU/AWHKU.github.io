@@ -1,8 +1,8 @@
 ---
 title: "Photo gallery"
-layout: piclay
+layout: homelay
 excerpt: "gallery"
-permalink: /images/
+permalink: /
 ---
 
 <div class="grid3x3">
