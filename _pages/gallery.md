@@ -15,7 +15,7 @@ permalink: /gallery/
 <div class="elfsight-app-d6b3e2b5-411d-4c90-b42f-466d49193583" data-elfsight-app-lazy></div>
 
 
-<div class="container">
+<div class="gamebox">
 <div class="row"> 
 <div class="column">
 <img src="/images/news/2023_11_28_christmas_lunch.jpg" width="400">
