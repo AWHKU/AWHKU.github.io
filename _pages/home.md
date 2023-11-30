@@ -14,9 +14,6 @@ permalink: /
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
         <li data-target="#carousel" data-slide-to="3"></li>
-        <li data-target="#carousel" data-slide-to="4"></li>
-        <li data-target="#carousel" data-slide-to="5"></li>
-        <li data-target="#carousel" data-slide-to="6"></li>
     </ol>
 
     <!-- Items -->
@@ -25,21 +22,9 @@ permalink: /
             <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/misc/CasPopArt_CMYK.png" width="500" alt="Slide 1" />
     </div>
     <div class="item">
-            <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/news/2021_12_15_christmas_lunch1.jpeg" width="700" alt="Slide 2" />
+            <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/news/2023_11_28_christmas_lunch.jpg" width="700" alt="Slide 2" />
         </div>
-        <div class="item">
-            <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/news/20210715_sciencepark2.jpg" width="700" alt="Slide 3" />
-        </div>
-        <div class="item">
-            <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/news/20210715_sciencepark1.jpg" width="700" alt="Slide 4" />
-        </div>
-        <div class="item">
-            <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/news/2021_XF_grad_group_photo_tiny.jpg" width="700" alt="Slide 5" />
-         </div>
-         <div class="item">
-            <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/news/lab_april2020.png" width="700" alt="Slide 6" />
-         </div>
-
+        
 
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
