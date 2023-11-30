@@ -9,7 +9,7 @@ permalink: /gallery/
 <div class="grid">
   <div class="row">
     <div class="cell"><img src="/images/news/2023_11_28_christmas_lunch.jpg" width="400"></div>
-    <div class="cell"><img src="/images/news/2021_12_15_christmas_lunch0.jpeg"width="400" ></div>
+    <div class="cell"><img src="/images/news/2021_12_15_christmas_lunch0.jpeg" width="400" ></div>
       </div>
   <div class="row">
     <div class="cell"><img src="/images/news/2021_12_15_christmas_lunch2.jpeg" width="400"></div>
