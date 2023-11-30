@@ -2,7 +2,8 @@
 title: "Photo gallery"
 layout: homelay
 excerpt: "gallery"
-permalink: /
+sitemap: false
+permalink: /gallery/
 ---
 
 <div class="grid3x3">
