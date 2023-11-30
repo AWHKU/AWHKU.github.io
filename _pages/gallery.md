@@ -1,6 +1,6 @@
 ---
 title: "Photo gallery"
-layout: piclay
+layout: homelay
 excerpt: "gallery"
 sitemap: false
 permalink: /gallery/
