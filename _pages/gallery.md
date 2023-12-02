@@ -24,6 +24,7 @@ permalink: /gallery/
 <img src="/images/news/20210715_sciencepark1.jpg" width="400">
 </div>
 <div class="gamebox-column">
+<img src="/images/news/2023_11_28_lab_retreat.jpg" width="400">
 <img src="/images/news/20210715_sciencepark2.jpg" width="400">
 <img src="/images/news/2021_XF_grad_group_photo_tiny.jpg" width="400">
 <img src="/images/news/news_lablunch.jpg" width="400">
