@@ -21,10 +21,10 @@ permalink: /
     <div class="item active">
             <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/misc/CasPopArt_CMYK.png" width="500" alt="Slide 1" />
     </div>
-    <div class="item active">
+    <div class="item">
             <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/news/20231116_labphoto.jpg" width="700" alt="Slide 2" />
     </div>
-    <div class="item active">
+    <div class="item">
             <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/news/2023_11_28_christmas_lunch.jpg" width="700" alt="Slide 2" />
     </div>    
 
