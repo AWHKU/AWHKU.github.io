@@ -1,12 +1,12 @@
 - title: Accurate top protein variant discovery via low-N pick-and-validate machine learning
   year: "2024"
-  image: 
+  image: <img src="/images/misc/2024_02_TOpVIP_pic.png" class="img-responsive"  width="25%" align="left" HSPACE="5" VSPACE="10" /> 
   description: 
   authors: Chu HY, Fong JHC, Thean DGL, Zhou P, Fung FKC, Huang Y, Wong ASL.
   link:
     url:  https://doi.org/10.1016/j.cels.2024.01.002
     display:  
-  highlight: 0 
+  highlight: 1 
   news1: 
   
 - title: Discovery of regulatory motifs in 5′ untranslated regions using interpretable multi-task learning models
