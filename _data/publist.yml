@@ -5,9 +5,9 @@
   authors: Chu HY, Fong JHC, Thean DGL, Zhou P, Fung FKC, Huang Y, Wong ASL.
   link:
     url:  https://doi.org/10.1016/j.cels.2024.01.002
-    display: "[Cell Systems (2023) 15(2),193-203](https://doi.org/10.1016/j.cels.2024.01.002)"
+    display: "Cell Systems (2023) 15(2),193-203"
   highlight: 1 
-  news1: [preview](https://doi.org/10.1016/j.cels.2024.01.010)
+  news1: "[preview](https://doi.org/10.1016/j.cels.2024.01.010)"
   
 - title: Discovery of regulatory motifs in 5′ untranslated regions using interpretable multi-task learning models
   year: "2023"
