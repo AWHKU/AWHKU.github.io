@@ -1,7 +1,7 @@
 - date: 09 May 2024
   headline: "Dr Wong gave his perspectives on **ChatGPT for CRISPR creates new gene-editing tools**."
-  description: "[link](https://awhku.github.io/images/news/d41586-024-01243-w.pdf) <object data="{{ site.url }}{{ site.baseurl }}/images/news/d41586-024-01243-w.pdf" width="1000" height="1000" type="application/pdf"></object>"
-  images: 
+  description: "[link](https://awhku.github.io/images/news/d41586-024-01243-w.pdf)"
+  images: <object data="{{ site.url }}{{ site.baseurl }}/images/news/d41586-024-01243-w.pdf" width="1000" height="1000" type="application/pdf"></object>
 
 - date: 20 Mar 2024
   headline: "Dr Wong gave a talk in the HKU-SJTU Joint Symposium to Advance Immunology"
