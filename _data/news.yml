@@ -1,6 +1,7 @@
 - date: 09 May 2024
   headline: "Dr Wong gave his perspectives on **ChatGPT for CRISPR creates new gene-editing tools**."
-  description: "[link](https://awhku.github.io/images/news/d41586-024-01243-w.pdf)"
+  description: "[link](https://awhku.github.io/images/news/d41586-024-01243-w.pdf) <br> <object data="{{ site.url }}/images/news/d41586-024-01243-w.pdf" width="1000" height="1000" type="application/pdf"></object>
+"
   images: 
 
 - date: 20 Mar 2024
