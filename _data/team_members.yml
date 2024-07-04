@@ -29,7 +29,6 @@
   education2: 
   education3:  
 
-
 - name: Ricky Poon
   photo: 2022_Ricky_poon.jpg
   info: Postdoc
@@ -59,6 +58,17 @@
   education1: 
   education2: 
   education3:    
+
+- name: Don Chan
+  photo: 20230808_Don_CV_2.png
+  info: Postdoc
+  year: Since 2024
+  email: 
+  number_educ: 0
+  education1: 
+  education2: 
+  education3:    
+
   
 #TO
 
