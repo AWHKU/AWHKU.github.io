@@ -49,46 +49,6 @@
   education2: 
   education3: 
 
-- name: Becky Chan
-  photo: becky.png
-  info: PhD student 
-  year: Since 2021 (Recipient of HKU University Postgraduate Fellowships (UPF)) <br> Research assistant (2019-21) <br> MPhil student (2017-19)
-  email: 
-  number_educ: 0
-  education1: 
-  education2: 
-  education3: 
-
-- name: John Fong
-  photo: john.png
-  info: PhD student 
-  year: Since 2021 (Recipient of Hong Kong PhD Fellowship (HKPF) and HKU Presidential PhD Scholarship (HKU-PS)) <br> MPhil student (2019-21) <br> BioMed FYP student (2018-19)
-  email: 
-  number_educ: 0
-  education1: 
-  education2: 
-  education3: 
-
-- name: Charles Chan
-  photo: Charles_Chan.jpg
-  info: PhD student
-  year: Since 2020 (Recipient of HKU University Postgraduate Fellowships (UPF)) <br> Research assistant (2019-20)
-  email: 
-  number_educ: 0
-  education1: 
-  education2: 
-  education3:   
-  
-- name: Bei Wang
-  photo: bei.png
-  info: PhD student
-  year: Since 2020 <br> Research assistant (2020)
-  email: 
-  number_educ: 0
-  education1: 
-  education2: 
-  education3:         
-
 - name: Jiaxing Peng
   photo: Picture-Jessie.jpg
   info: PhD student
