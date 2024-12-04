@@ -1,14 +1,4 @@
 # postdoc
-- name: Peng Zhou
-  photo: nick.jpg
-  info: Postdoc
-  year: Since 2016
-  email: 
-  number_educ: 0
-  education1: 
-  education2: 
-  education3: 
-
 - name: Chu Zhang
   photo: chu.png
   info: Postdoc
@@ -67,7 +57,37 @@
   number_educ: 0
   education1: 
   education2: 
-  education3:    
+  education3:
+  
+- name: Becky Chan
+  photo: becky.png
+  info: Postdoc
+  year: Since 2024 <br> PhD student (2021-24) (Recipient of HKU University Postgraduate Fellowships (UPF)) <br> Research assistant (2019-21) <br> MPhil student (2017-19)
+  email: 
+  number_educ: 0
+  education1: 
+  education2: 
+  education3: 
+
+- name: Charles Chan
+  photo: Charles_Chan.jpg
+  info: Postdoc
+  year: Since 2024 <br> PhD student (2020-24) (Recipient of HKU University Postgraduate Fellowships (UPF)) <br> Research assistant (2019-20)
+  email: 
+  number_educ: 0
+  education1: 
+  education2: 
+  education3:   
+
+- name: Bei Wang
+  photo: bei.png
+  info: Postdoc
+  year: Since 2024 <br> PhD student (2020-24) <br> Research assistant (2020)
+  email: 
+  number_educ: 0
+  education1: 
+  education2: 
+  education3:         
 
   
 #TO
@@ -93,16 +113,6 @@
   education3:   
   
 # RA
-- name: Sabrina Carrillo
-  photo: Carrillo_S.JPG
-  info: Research assistant
-  year: Since 2022
-  email: 
-  number_educ: 0
-  education1: 
-  education2: 
-  education3:    
-
 - name: Liz Cheng
   photo: Liz_2032.jpg
   info: Research assistant
