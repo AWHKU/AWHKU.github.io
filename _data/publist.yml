@@ -1,3 +1,14 @@
+- title: Quantifying Protein-Nucleic Acid Interactions for Engineering Useful CRISPR-Cas9 Genome-Editing Variants 
+  yesr: "2024"
+  image:
+  description: 
+  authors: Chu HY, Peng J, Mou Y, Wong ASL.
+  link:
+    url: https://doi.org/10.1007/978-1-0716-4213-9_12
+    display:  "Protein Supersecondary Structures (2024), 227-243"
+  highlight: 0
+  news1: 
+    
 - title: Accurate top protein variant discovery via low-N pick-and-validate machine learning
   year: "2024"
   image: <img src="/images/misc/2024_02_TOpVIP_pic.png" class="img-responsive"  width="25%" align="left" HSPACE="5" VSPACE="10" /> 
