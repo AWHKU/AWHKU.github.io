@@ -59,16 +59,6 @@
   education2: 
   education3:
   
-- name: Becky Chan
-  photo: becky.png
-  info: Postdoc
-  year: Since 2024 <br> PhD student (2021-24) (Recipient of HKU University Postgraduate Fellowships (UPF)) <br> Research assistant (2019-21) <br> MPhil student (2017-19)
-  email: 
-  number_educ: 0
-  education1: 
-  education2: 
-  education3: 
-
 - name: Charles Chan
   photo: Charles_Chan.jpg
   info: Postdoc
@@ -122,16 +112,6 @@
   education3:   
   
 # RA
-- name: Liz Cheng
-  photo: Liz_2032.jpg
-  info: Research assistant
-  year: Since 2022
-  email: 
-  number_educ: 0
-  education1: 
-  education2: 
-  education3:    
-
 - name: Rene Lam 
   photo: Rene_lam.png
   info: Research assistant
@@ -140,7 +120,18 @@
   number_educ: 0
   education1: 
   education2: 
+  education3:   
+
+- name: Qi Shi
+  photo: 2025_Qi.jpg
+  info: Research assistant
+  year: Since 2025
+  email: 
+  number_educ: 0
+  education1: 
+  education2: 
   education3:    
+
   
 
   
