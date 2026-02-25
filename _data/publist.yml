@@ -1,3 +1,13 @@
+- title: What problem do you hope bioengineering or synthetic biology approaches will enable us to tackle in the next decade?
+  year: "2026"
+  description: Vocies
+  authors: Lee SY, Wong ASL, Ellis T, Shakiba N, Khammash M, Shapiro MG, Dai Z, Lou C, Galloway KE, Deans, TL, Del Vecchio D, Ebrahimkhani MR, Vickers, C, Griffith, LG, Borodina I.
+  link:
+    url: https://doi.org/10.1016/j.cels.2026.101539
+    display: "Cell Systems (2026) 17,2,101539"
+  highlight: 0
+  news1: 
+
 - title: Droplet-based single-cell pairing for high-throughput interaction mapping of antigen-receptor combinations
   year: "2025"
   image: <img src="/images/misc/2025_Droplet-based-single-cell-pairingScience_Advances.png" class="img-responsive"  width="25%" align="left" HSPACE="5" VSPACE="10" /> 
