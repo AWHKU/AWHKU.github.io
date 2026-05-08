@@ -1,3 +1,15 @@
+- title: Rapid customization of base editors via machine learning-powered combinatorial mutagenesis
+  year: "2026"
+  image: <img src="/images/misc/peng2026molcell.jpg" class="img-responsive"  width="25%" align="left" HSPACE="5" VSPACE="10" /> 
+  description: Article
+  authors: Peng J, Chan DCT, Chu HY, Fong JHC, Lam YH, Cheung MSH, Leung W, Choi GCG, Wong ASL.
+  link:
+    url: https://doi.org/10.1016/j.molcel.2026.03.030
+    display: "Molecular Cell (2026) 86, 1-17"
+  highlight: 1
+  news1: 
+
+
 - title: What problem do you hope bioengineering or synthetic biology approaches will enable us to tackle in the next decade?
   year: "2026"
   description: Vocies
