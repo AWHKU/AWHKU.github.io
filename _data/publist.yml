@@ -1,3 +1,14 @@
+- title: Weaker interactions boost accuracy of DNA editing
+  year: "2026"
+  image: 
+  description: News
+  authors: Chu HY, Wong ASL.
+  link:
+    url: https://doi.org/10.1038/d41586-026-02042-1
+    display: "Nature News & Views (2026) 191"
+  highlight: 0
+  news1: 
+  
 - title: Rapid customization of base editors via machine learning-powered combinatorial mutagenesis
   year: "2026"
   image: <img src="/images/misc/peng2026molcell.jpg" class="img-responsive"  width="25%" align="left" HSPACE="5" VSPACE="10" /> 
