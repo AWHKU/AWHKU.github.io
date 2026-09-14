@@ -19,7 +19,6 @@
   education2: 
   education3:  
 
-
 - name: Rene Lam 
   photo: Rene_lam.png
   info: PhD student 
@@ -30,7 +29,6 @@
   education2: 
   education3:  
 
-
 - name: Charmaine Chan
   photo: charmaine_2.jpeg
   info: PhD student 
@@ -40,13 +38,35 @@
   education1: 
   education2: 
   education3:   
-  
-- name: Jiaxing Peng
-  photo: Picture-Jessie.jpg
-  info: PhD student
-  year: Since 2022 <br> Research assistant (2022)
+
+- name: Tianrong Chen 
+  photo: TianrongChen.jpeg
+  info: PhD student 
+  year: Since 2026 
   email: 
   number_educ: 0
   education1: 
   education2: 
-  education3:    
+  education3:  
+
+- name: Yuxin Feng
+  photo: 
+  info: FYP Student
+  year: Since 2026 
+  email: 
+  number_educ: 0
+  education1: 
+  education2: 
+  education3:  
+
+- name: Li Anran
+  photo: LiAnran.jpg
+  info: Biochemistry FYP student
+  year: Since 2026 
+  email: 
+  number_educ: 0
+  education1: 
+  education2: 
+  education3:  
+
+  
