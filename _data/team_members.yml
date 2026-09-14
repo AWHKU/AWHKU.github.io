@@ -69,25 +69,16 @@
   education2: 
   education3:   
 
-- name: Bei Wang
-  photo: bei.png
+- name: Jiaxing Peng
+  photo: Picture-Jessie.jpg
   info: Postdoc
-  year: Since 2024 <br> PhD student (2020-24) <br> Research assistant (2020)
+  year: Since 2026 <br> PhD student 2022-2026 <br> Research assistant (2022)
   email: 
   number_educ: 0
   education1: 
   education2: 
-  education3:         
-
-- name: Haneesh Sidhu
-  photo: Haneesh_Sidhu.jpg
-  info: Postdoc
-  year: Since 2025 
-  email: 
-  number_educ: 0
-  education1: 
-  education2: 
-  education3:     
+  education3:    
+  
   
 #TO
 
@@ -123,6 +114,15 @@
   education2: 
   education3:    
 
+ 
+- name: Kathleen Francisca Liem 
+  photo: KFLiem.jpg
+  info: Research Assistant
+  year: Since 2026 
+  email: 
+  number_educ: 0
+  education1: 
+  education2: 
+  education3:  
   
-
   
